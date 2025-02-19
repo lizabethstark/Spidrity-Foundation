@@ -1,2 +1,2 @@
-# Spidrity-Foundation
-This pro
+# Spidrity Foundation
+This project
